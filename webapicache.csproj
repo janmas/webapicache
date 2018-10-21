@@ -9,6 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="CacheManager.SystemRuntimeCaching" Version="1.1.2" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
 
