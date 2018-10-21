@@ -1,0 +1,7 @@
+global.json
+dotnet new webapi
+dotnet restore
+dotnet build
+dotnet run
+https://localhost:5001/api/values
+dotnet add package CacheManager.SystemRuntimeCaching
